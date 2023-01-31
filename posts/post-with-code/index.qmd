@@ -1,0 +1,13 @@
+---
+title: "Post mit Code"
+author: "Katrin Schulz"
+date: "2023-01-31"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+Post mit Code
+
+```{r}
+1 + 1
+```
