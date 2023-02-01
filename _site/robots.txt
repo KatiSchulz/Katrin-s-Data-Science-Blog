@@ -1,1 +1,1 @@
-Sitemap: https://ubiquitous-snickerdoodle-86bed1.netlify.app/sitemap.xml
+Sitemap: https://katrinsdatascienceblog.netlify.app/sitemap.xml
