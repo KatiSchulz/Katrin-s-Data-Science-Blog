@@ -1,7 +1,7 @@
 {
-  "hash": "4f6834e118e9ed4ec9c6956851713371",
+  "hash": "b889fde13322d93ac2bbf34b666c7c83",
   "result": {
-    "markdown": "---\ntitle: \"Post mit Code\"\nauthor: \"Katrin Schulz\"\ndate: \"2023-01-31\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nPost mit Code\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Post mit Code\"\nauthor: \"Katrin Schulz\"\ndate: \"2023-01-31\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nPost mit Code\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nTest fuer Neuerungen",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
